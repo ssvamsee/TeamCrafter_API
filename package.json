@@ -1,0 +1,11 @@
+{
+  "name": "teamcrafter_api",
+  "version": "1.0.0",
+  "description": "**Technologies Used**\r - Nodejs,\t\t\r - socket.io,\t\t\r - webRtc,\t\t\r - ExpressJs\t\t\r - Mongodb (or) GraphaQl,\t\t\r - Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
